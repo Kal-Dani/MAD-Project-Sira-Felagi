@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ChipPurple">
+        <item name="android:padding">8dp</item>
+        <item name="android:background">@drawable/bg_chip</item>
+        <item name="android:textColor">#6739FF</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

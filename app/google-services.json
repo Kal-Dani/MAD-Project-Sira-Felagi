@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832911145940",
+    "project_id": "sira-felagi-eeac2",
+    "storage_bucket": "sira-felagi-eeac2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832911145940:android:1ba0fa8490566c93acb441",
+        "android_client_info": {
+          "package_name": "com.example.sra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jsB_cUB3OxNhJkCC0jAuQYpHH1nJzgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
